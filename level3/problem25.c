@@ -18,7 +18,7 @@ void lower_case_f(char *str)
 
 int main()
 {
-    char str[] = "Maryem Loli Koki Nano Waler Poli Qiuar";
+    char str[] = "Maryem Loli";
     lower_case_f(str);
     return 0;
 }

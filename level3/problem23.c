@@ -18,6 +18,6 @@
  }
  int main()
  {
-    char str[] = "maryem loli giga noni ahmde";
+    char str[] = "maryem loli ";
     print_first_letter(str);
  }

@@ -69,7 +69,7 @@ int main()
     char str2[] = "   maryem lou            ";//   maryem lou$
     trim_right(str2);
     printf("\n");
-    char str3[] = "  loli  ";
+    char str3[] = "  loli  "; 
     trim(str3);
     printf("%s", str3);
     printf("\n");
